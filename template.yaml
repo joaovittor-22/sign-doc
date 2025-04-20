@@ -15,8 +15,8 @@ Resources:
   SignDocFunction:
     Type: AWS::Serverless::Function # More info about Function Resource: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
     Properties:
-      CodeUri: HelloWorldFunction
-      Handler: helloworld.App::handleRequest
+      CodeUri: SignDocFunction
+      Handler: signdoc.App::handleRequest
       Runtime: java17
       Architectures:
         - x86_64
@@ -40,9 +40,9 @@ Outputs:
   HelloWorldApi:
     Description: "API Gateway endpoint URL for Prod stage for Hello World function"
     Value: !Sub "https://${ServerlessRestApi}.execute-api.${AWS::Region}.amazonaws.com/Prod/hello/"
-  HelloWorldFunction:
+  SignDocFunction:
     Description: "Hello World Lambda Function ARN"
-    Value: !GetAtt HelloWorldFunction.Arn
-  HelloWorldFunctionIamRole:
+    Value: !GetAtt SignDocFunction.Arn
+  SignDocFunctionIamRole:
     Description: "Implicit IAM Role created for Hello World function"
-    Value: !GetAtt HelloWorldFunctionRole.Arn
+    Value: !GetAtt SignDocFunctionRole.Arn
