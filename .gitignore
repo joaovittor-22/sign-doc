@@ -1,0 +1,48 @@
+*.pfx
+*.txt
+.env
+
+# Bytecode and Python cache
+__pycache__/
+*.py[cod]
+
+# SAM build artifacts
+.aws-sam/
+build/
+dist/
+.cache/
+
+# IDE and editor stuff
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Environment and secrets
+.env
+.env.*
+
+# Python virtual environments (if using)
+.venv/
+venv/
+
+# Node (if your Lambda uses Node)
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Java target output (if using Java Lambdas)
+target/
+*.class
+
+# SAM generated files
+samconfig.toml

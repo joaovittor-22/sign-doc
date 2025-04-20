@@ -1,0 +1,62 @@
+{
+    "body": "{\"file1\": \"YWJjZGVvaWFvaWFkd2ogYXBkd2phcG9kYXB3ZCA=\", \"certificate\": \"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\", \"secret\": \"abcdteste\"}",
+    "resource": "/{proxy+}",
+    "path": "/path/to/resource",
+    "httpMethod": "POST",
+    "isBase64Encoded": true,
+    "queryStringParameters": {
+        "foo": "bar"
+    },
+    "pathParameters": {
+        "proxy": "/path/to/resource"
+    },
+    "stageVariables": {
+        "baz": "qux"
+    },
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "Accept-Encoding": "gzip, deflate, sdch",
+        "Accept-Language": "en-US,en;q=0.8",
+        "Cache-Control": "max-age=0",
+        "CloudFront-Forwarded-Proto": "https",
+        "CloudFront-Is-Desktop-Viewer": "true",
+        "CloudFront-Is-Mobile-Viewer": "false",
+        "CloudFront-Is-SmartTV-Viewer": "false",
+        "CloudFront-Is-Tablet-Viewer": "false",
+        "CloudFront-Viewer-Country": "US",
+        "Host": "1234567890.execute-api.us-east-1.amazonaws.com",
+        "Upgrade-Insecure-Requests": "1",
+        "User-Agent": "Custom User Agent String",
+        "Via": "1.1 08f323deadbeefa7af34d5feb414ce27.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Id": "cDehVQoZnx43VYQb9j2-nvCh-9z396Uhbp027Y2JvkCPNLmGJHqlaA==",
+        "X-Forwarded-For": "127.0.0.1, 127.0.0.2",
+        "X-Forwarded-Port": "443",
+        "X-Forwarded-Proto": "https"
+    },
+    "requestContext": {
+        "accountId": "123456789012",
+        "resourceId": "123456",
+        "stage": "prod",
+        "requestId": "c6af9ac6-7b61-11e6-9a41-93e8deadbeef",
+        "requestTime": "09/Apr/2015:12:34:56 +0000",
+        "requestTimeEpoch": 1428582896000,
+        "identity": {
+            "cognitoIdentityPoolId": null,
+            "accountId": null,
+            "cognitoIdentityId": null,
+            "caller": null,
+            "accessKey": null,
+            "sourceIp": "127.0.0.1",
+            "cognitoAuthenticationType": null,
+            "cognitoAuthenticationProvider": null,
+            "userArn": null,
+            "userAgent": "Custom User Agent String",
+            "user": null
+        },
+        "path": "/prod/path/to/resource",
+        "resourcePath": "/{proxy+}",
+        "httpMethod": "POST",
+        "apiId": "1234567890",
+        "protocol": "HTTP/1.1"
+    }
+}
